@@ -4,3 +4,7 @@ def g(x: float):
 
 def h(x: float):
     return x**2 - 2
+
+
+def i(x: float):
+    return x**2 - 2
