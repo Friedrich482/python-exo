@@ -26,3 +26,4 @@ def C_to_F(C: float):
 
 assert F_to_C(-459.67) == -273.15, F_to_C(-459.67)
 assert C_to_F(-273.15) == -459.67, C_to_F(-273.15)
+assert C_to_F(-273.15) == -459.67, C_to_F(-273.15)
